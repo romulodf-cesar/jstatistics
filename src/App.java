@@ -68,4 +68,14 @@ public class App {
 
       
     }
+
+    /*Desafio
+     * 
+     * Ajustar os bugs lógicos do código menu estatístico
+     * 
+     * Crie um loop (do while)
+     * Para deixar o menu com opções do usuário escolher
+     * uma nova opção ou sair
+     * O usuário que vai decidir a hora de sair.  
+     */
 }
